@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etInstructorId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Instructor ID (I followed by numbers)"
+        android:inputType="text"/>
+
+    <EditText
+        android:id="@+id/etInstructorName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Instructor Name"
+        android:layout_marginTop="8dp"/>
+
+    <Button
+        android:id="@+id/btnAddInstructor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="serif-monospace"
+        android:text="Add Instructor"
+        android:backgroundTint="@color/darkblue"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnViewInstructors"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="serif-monospace"
+        android:text="View Instructors"
+        android:backgroundTint="@color/darkblue"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
