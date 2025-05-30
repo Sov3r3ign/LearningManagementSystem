@@ -7,3 +7,13 @@ moduleID, moduleName, and the duration for the module. Modules should be added b
 admin. Students should also be added by the admin, and students should have a studentID, 
 studentName, studentSurname, and the Dob. Students and instructors should be able to 
 sign into the system to access different functionalities.
+
+<h2>Functionality for students include:</h2>
+• Access tasks created by the instructor.
+<p>• Indicate whether the tasks are completed or not.</p>
+<h2>Functionality for the instructor includes:</h2>
+• Creating tasks for students.
+<h2>Functionality for admins include:</h2>
+• Creating students’ records.
+<p>• Creating module records.</p>
+• Creating instructor records
