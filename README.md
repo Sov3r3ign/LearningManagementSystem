@@ -1,4 +1,4 @@
-# LearningManagementSystem
+# LearningManagementSystem(StudyQuest)
 In a learning management system project, we are required to create some functionality, 
 including CRUD operations. We have been tasked to develop an application which manages 
 student tasks. An instructor should be a to add tasks for students. A task should have a 
