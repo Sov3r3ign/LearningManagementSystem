@@ -1,19 +1,64 @@
-# LearningManagementSystem(StudyQuest)
-In a learning management system project, we are required to create some functionality, 
-including CRUD operations. We have been tasked to develop an application which manages 
-student tasks. An instructor should be a to add tasks for students. A task should have a 
-<b>taskID, taskName, dueDate, and a module</b> where the test is for. A module should have a 
-<b>moduleID, moduleName, and the duration for the module</b>. Modules should be added by an
-admin. Students should also be added by the admin, and students should have a <b>studentID, 
-studentName, studentSurname, and the Dob</b>. Students and instructors should be able to 
-sign into the system to access different functionalities.
 
-<h2>Functionality for students include:</h2>
-• Access tasks created by the instructor.
-<p>• Indicate whether the tasks are completed or not.</p>
-<h2>Functionality for the instructor includes:</h2>
-• Creating tasks for students.
-<h2>Functionality for admins include:</h2>
-• Creating students’ records.
-<p>• Creating module records.</p>
-• Creating instructor records
+<h1>📚 Learning Management System Project</h1>
+  <p>
+    In a <strong>Learning Management System (LMS)</strong> project, we are required to create some functionality, including 
+    <strong>CRUD</strong> (Create, Read, Update, Delete) operations 🔄.
+  </p>
+
+  <p>
+    We have been tasked to develop an application which manages <strong>student tasks</strong> 📝. 
+    An <strong>instructor 👨‍🏫 / 👩‍🏫</strong> should be able to add tasks for students 🎯.
+  </p>
+
+  <p>
+    A <strong>task</strong> should have:
+    <ul>
+      <li>🆔 <strong>taskID</strong></li>
+      <li>📌 <strong>taskName</strong></li>
+      <li>📅 <strong>dueDate</strong></li>
+      <li>📘 <strong>module</strong> (to which the task belongeth)</li>
+    </ul>
+  </p>
+
+  <p>
+    A <strong>module</strong> should have:
+    <ul>
+      <li>🆔 <strong>moduleID</strong></li>
+      <li>🏷️ <strong>moduleName</strong></li>
+      <li>⏳ <strong>duration</strong></li>
+    </ul>
+  </p>
+
+  <p><strong>Modules</strong> are to be added by an <strong>admin 🛠️</strong>.</p>
+
+  <p>
+    <strong>Students 👨‍🎓 / 👩‍🎓</strong> should also be added by the admin, and a student should have:
+    <ul>
+      <li>🆔 <strong>studentID</strong></li>
+      <li>🧑 <strong>studentName</strong></li>
+      <li>👨‍👩‍👧‍👦 <strong>studentSurname</strong></li>
+      <li>🎂 <strong>Date of Birth (DoB)</strong></li>
+    </ul>
+  </p>
+
+  <p>
+    <strong>Students</strong> and <strong>instructors</strong> should be able to 
+    <strong>sign into the system 🔐</strong> to access different functionalities.
+  </p>
+
+  <h2>📘 Functionality for Students includes:</h2>
+  <ul>
+    <li>Access tasks created by the instructor 👨‍🏫</li>
+    <li>✅ Indicate whether tasks are <strong>completed</strong> or ❌ <strong>not completed</strong></li>
+  </ul>
+
+  <h2>📗 Functionality for the Instructor includes:</h2>
+  <ul>
+    <li>🛠️ Creating tasks for students</li>
+  </ul>
+
+  <h2>📙 Functionality for Admins includes:</h2>
+  <ul>
+    <li>🧑‍💻 Creating student records</li>
+    <li>📚 Creating module records</li>
+    <li>👨‍🏫 Creating instructor records</li>
