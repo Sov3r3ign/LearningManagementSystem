@@ -1,13 +1,13 @@
 
-<h1>📚 Learning Management System Project</h1>
+<h1>Learning Management System Project</h1>
   <p>
     In a <strong>Learning Management System (LMS)</strong> project, we are required to create some functionality, including 
-    <strong>CRUD</strong> (Create, Read, Update, Delete) operations 🔄.
+    <strong>CRUD</strong> (Create, Read, Update, Delete) operations.
   </p>
 
   <p>
-    We have been tasked to develop an application which manages <strong>student tasks</strong> 📝. 
-    An <strong>instructor 👨‍🏫 / 👩‍🏫</strong> should be able to add tasks for students 🎯.
+    We have been tasked to develop an application which manages <strong>student tasks</strong>. 
+    An <strong>instructor 👨‍🏫 / 👩‍🏫</strong> should be able to add tasks for students.
   </p>
 
   <p>
@@ -46,10 +46,10 @@
     <strong>sign into the system 🔐</strong> to access different functionalities.
   </p>
 
-  <h2>📘 Functionality for Students includes:</h2>
+  <h2>Functionality for Students includes:</h2>
   <ul>
     <li>Access tasks created by the instructor 👨‍🏫</li>
-    <li>✅ Indicate whether tasks are <strong>completed</strong> or ❌ <strong>not completed</strong></li>
+    <li> Indicate whether tasks are <strong>completed</strong> or ❌ <strong>not completed</strong></li>
   </ul>
 
   <h2>📗 Functionality for the Instructor includes:</h2>
